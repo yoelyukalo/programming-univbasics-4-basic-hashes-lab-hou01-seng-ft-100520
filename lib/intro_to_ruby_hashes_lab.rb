@@ -11,7 +11,7 @@ def my_hash
 end
 
 def pioneer
-  hash.pioneer{
+  {
     :name => 'Grace Hopper'
   }
 end
