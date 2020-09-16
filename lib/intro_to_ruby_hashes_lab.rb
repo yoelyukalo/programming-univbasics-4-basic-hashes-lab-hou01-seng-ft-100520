@@ -6,7 +6,7 @@ end
 
 def my_hash
   {
-    :key = 'answer'
+    :key = "answer"
   }
 end
 
